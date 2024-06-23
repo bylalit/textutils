@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Navbar title="LalitKP" about="About Us"/>
-      <Navbar />
+      {/* <Navbar /> */}
     </>
   );
 }
